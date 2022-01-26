@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    font-family: 'Fredoka One', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-container-login {
+    width: 80vw;
+    height: 80vh;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px;
+}
+
+.img-phrase {
+    width: 50vw;
+    height: 100vh;
+    flex: 1;
+    order: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #0A59A3;
+}
+
+.form-login {
+    flex: 2;
+    order: 2;
+    color: #0A59A3;
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-login {
+    background-color: #0A59A3;
+    color: aliceblue;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 35px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 40px #0C4369;
+}
+
+.card-login >input {
+    background-color: aliceblue;
+}
+
+.login-button {
+    width: 100%;
+    padding: 16px 0px;
+    margin: 25px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: aliceblue;
+    background-color: #1D8AF0;
+    cursor: pointer;
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 50px;
+}

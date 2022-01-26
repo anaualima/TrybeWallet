@@ -1,0 +1,15 @@
+* {
+    font-size: 1.04em;
+    margin: 0;
+    padding: 0;
+  }
+
+.header-div {
+    align-items: center;
+    background-color: aliceblue;
+    color: #1D8AF0;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    align-content: space-around;
+}

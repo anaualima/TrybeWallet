@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Press+Start+2P&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: linear-gradient(to right , #4D6F8F, #587FA3, #74A7D6, #BACCDD);
+}
+/* 
+.img-form-conteiner {
+ display: flex;
+}
+
+.text {
+  color: #292929;
+}
+
+.form-div {
+  background-color: aliceblue;
+  padding: 40px;
+  margin: 10px;
+  border-radius: 20px;
+}
+
+.container-table {
+  display: flexbox;
+  justify-content: center;
+  align-content: center;
+}
+
+.table {
+  background-color: aliceblue;
+  padding: 80px;
+  margin: 80px;
+  border-radius: 20px;
+}
+
+.title{
+  text-align: center;
+  color: aliceblue;
+  font-family: 'Fredoka One', cursive;
+  font-size: 50px;
+}
+
+.header-div {
+  color:aliceblue;
+  text-align: center;
+} */
+
+/* cores: #0A59A3, #389FFF, #1D8AF0, #A36500, #F0A01D */

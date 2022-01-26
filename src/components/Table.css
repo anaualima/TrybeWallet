@@ -1,0 +1,16 @@
+.div-table {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.table, th, td {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: aliceblue;
+    color: #0A59A3;
+    border: 1px solid #0A59A3;
+    font-size: 15px;
+    border-radius: 4px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

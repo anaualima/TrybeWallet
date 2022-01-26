@@ -1,0 +1,29 @@
+
+
+.form-div {
+    padding: 20px;
+    background-color: #0A59A3;
+    color: aliceblue;
+}
+
+.test-field {
+    display: flex;
+    align-items: flex-start;
+}
+
+.test-field >input >option {
+    color: aliceblue;
+    border-radius: 4px;
+}
+
+.btn-header {
+    width: 200px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: aliceblue;
+    background-color: #1D8AF0;
+    cursor: pointer;
+}
